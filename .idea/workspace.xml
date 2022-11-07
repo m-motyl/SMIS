@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03823114-0ff3-4d6d-9356-f2d00506e616" name="Changes" comment="" />
+    <list default="true" id="03823114-0ff3-4d6d-9356-f2d00506e616" name="Changes" comment="">
+      <change afterPath="D:/proj/proj/static/css/style.css" afterDir="false" />
+      <change beforePath="D:/proj/.idea/workspace.xml" beforeDir="false" afterPath="D:/proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/proj/proj/authentication/views.py" beforeDir="false" afterPath="D:/proj/proj/authentication/views.py" afterDir="false" />
+      <change beforePath="D:/proj/proj/db.sqlite3" beforeDir="false" afterPath="D:/proj/proj/db.sqlite3" afterDir="false" />
+      <change beforePath="D:/proj/proj/proj/settings.py" beforeDir="false" afterPath="D:/proj/proj/proj/settings.py" afterDir="false" />
+      <change beforePath="D:/proj/proj/templates/authentication/index.html" beforeDir="false" afterPath="D:/proj/proj/templates/authentication/index.html" afterDir="false" />
+      <change beforePath="D:/proj/proj/templates/authentication/signin.html" beforeDir="false" afterPath="D:/proj/proj/templates/authentication/signin.html" afterDir="false" />
+      <change beforePath="D:/proj/proj/templates/authentication/signup.html" beforeDir="false" afterPath="D:/proj/proj/templates/authentication/signup.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -19,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="D:/proj" />
   </component>
   <component name="ProjectId" id="2HBgIeAXw22K6hTDswDKqhnmnEI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,6 +41,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="exceleditor.install" value="true" />
     <property name="last_opened_file_path" value="D:/proj" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\proj" />
+      <recent name="D:\proj\proj\static\img" />
+      <recent name="D:\proj\proj\templates\authentication" />
+      <recent name="D:\proj\proj\templates" />
+      <recent name="D:\proj\proj\proj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\proj" />
+      <recent name="D:\proj\proj" />
+      <recent name="D:\proj\proj\templates\authentication" />
+      <recent name="D:\proj\proj\proj" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -64,6 +90,9 @@
       <updated>1667763811993</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
